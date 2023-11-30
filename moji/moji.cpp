@@ -4,4 +4,5 @@ int main() {
 	int num = 0;
 	loadData("data.txt", &num);
 	number(num);
+	//修正
 }
