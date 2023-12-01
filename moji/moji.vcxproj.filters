@@ -18,20 +18,6 @@
     <ClCompile Include="moji.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="loadData.cpp">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
-    <ClCompile Include="number.cpp">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="loadData.h">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
-    <ClInclude Include="number.h">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="data.txt">
