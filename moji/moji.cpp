@@ -3,14 +3,9 @@
 
 int main() {
     FILE* file;
-
-   
     file = fopen("data.txt", "r");
-
-    
-
-   
     char c;
+
     while ((c = fgetc(file)) != EOF) {
         if (c == '1') {
             printf("*");
